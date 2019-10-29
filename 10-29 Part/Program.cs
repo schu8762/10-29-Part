@@ -10,6 +10,17 @@ namespace _10_29_Part
     {
         static void Main(string[] args)
         {
+
+
+
+
+
+
+
+
+
+
+            Console.ReadKey();
         }
     }
 }
